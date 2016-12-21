@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "from": "mazri.iar@gmail.com",
+            "date": "1 Jan 2016",
+            "subject": "Mail 1",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam asperiores dolore facilis optio sint suscipit? Asperiores, at atque, aut error et ipsam maiores molestiae, necessitatibus non optio placeat rem sit!"
+        },
+        {
+            "id": 2,
+            "from": "mazri.iar@gmail.com",
+            "date": "2 Jan 2016",
+            "subject": "Mail 2",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus alias dicta ea eveniet, expedita illum laboriosam magni maiores maxime odit optio reiciendis, repellat similique ullam voluptatem. Amet eveniet magnam tenetur."
+        },
+        {
+            "id": 3,
+            "from": "mazri.iar@gmail.com",
+            "date": "3 Jan 2016",
+            "subject": "Mail 3",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam autem consectetur, consequatur consequuntur cupiditate deserunt dolore doloremque dolorum error facere, iusto libero magni, minus nam quasi quod unde voluptatibus voluptatum!"
+        },
+        {
+            "id": 4,
+            "from": "mazri.iar@gmail.com",
+            "date": "4 Jan 2016",
+            "subject": "Mail 4",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam architecto consequatur delectus minima nihil nulla quam quo recusandae sed sequi? Est nesciunt omnis saepe. Facere nihil obcaecati praesentium saepe voluptatum."
+        },
+        {
+            "id": 5,
+            "from": "mazri.iar@gmail.com",
+            "date": "5 Jan 2016",
+            "subject": "Mail 5",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus assumenda blanditiis cupiditate doloribus dolorum eaque eos, error facilis, id ipsam laudantium maiores minus molestiae nesciunt perspiciatis quisquam repudiandae sit sunt?"
+        }
+    ]
+}
